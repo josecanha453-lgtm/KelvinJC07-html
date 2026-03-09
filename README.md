@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 https://github.com/alexandresanlim/Badges4-README.md-profile#-education-
    
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
