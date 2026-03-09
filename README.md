@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 https://github.com/alexandresanlim/Badges4-README.md-profile#-education-
+  
+https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white  
